@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2IbujZgVM7ueHbh2a4mmiRpU1y522rvnnAoENgJWrlPHR6PxfNTwTndsuwPpDGn43ypD/FrBMKfcGc2Nwc4ywg==",
+  "dgSpecHash": "gGgHhMrYMnA0tQb/cwL9W3oRk3ykUSHavDk2Bjsr5G78W2DBrTs5VMBeIsVbErLtoKF0sruqNiXra6TYy97ICw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\webApiCasas\\webApiCasas\\webApiCasas.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

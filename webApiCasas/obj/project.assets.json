@@ -3727,11 +3727,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\webApiCasas\\webApiCasas\\webApiCasas.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj",
       "projectName": "webApiCasas",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\webApiCasas\\webApiCasas\\webApiCasas.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\webApiCasas\\webApiCasas\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
