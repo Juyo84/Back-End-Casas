@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj": {}
+    "C:\\Users\\HP\\source\\repos\\Back-End-Casa1\\webApiCasas\\webApiCasas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj": {
+    "C:\\Users\\HP\\source\\repos\\Back-End-Casa1\\webApiCasas\\webApiCasas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Back-End-Casa1\\webApiCasas\\webApiCasas.csproj",
         "projectName": "webApiCasas",
-        "projectPath": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\webApiCasas.csproj",
+        "projectPath": "C:\\Users\\HP\\source\\repos\\Back-End-Casa1\\webApiCasas\\webApiCasas.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Source\\Repos\\Back-End-Casa\\webApiCasas\\obj\\",
+        "outputPath": "C:\\Users\\HP\\source\\repos\\Back-End-Casa1\\webApiCasas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

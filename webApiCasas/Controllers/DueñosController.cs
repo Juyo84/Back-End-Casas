@@ -7,7 +7,7 @@ namespace webApiCasas.Controllers
     [ApiController]
     [Route("api/Dueños")]
 
-    public class DueñoController
+    public class DueñosController: ControllerBase
     {
 
         [HttpGet]
