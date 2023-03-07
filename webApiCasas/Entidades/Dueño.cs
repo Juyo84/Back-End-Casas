@@ -11,5 +11,7 @@
 
         public int Edad { get; set;}
 
+        public List<Casa> casas { get; set;}
+
     }
 }
